@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\CAEN.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\CAEN.dir/objects.a @CMakeFiles\CAEN.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\CAEN.dir/objects.a -Wl,--no-whole-archive -o CAEN.exe -Wl,--out-implib,libCAEN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CAEN.dir\linkLibs.rsp
